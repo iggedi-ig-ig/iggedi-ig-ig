@@ -9,7 +9,7 @@
   <hr width="50%" style="height:5px;">
 
   <h3> My favorite programming languages are:</h3>
-  <img src="https://reach.rust-lang.org/static/rust-logo-white.png" width=50px height=50px>
+  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" width=50px height=50px>
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" width=50px height=50px>
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png" width=50px height=50px>
   <hr width="50%" style="height:5px;">

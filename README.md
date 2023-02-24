@@ -8,8 +8,8 @@
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png" width=50px height=50px>
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png" width=50px height=50px>
   <hr width="50%" style="height:5px;">
-  Developer for hire.
-  Hit me up on discord: igs#9036
+  <p>Developer for hire. Contact me</p>
+  Discord: <a href="https://discord.com/users/280708165174296577">igs#9036</a>
   <hr width="50%" style="height:5px;">
 
 </p>
